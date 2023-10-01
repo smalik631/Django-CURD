@@ -1,3 +1,7 @@
 ## Django-CURD
 
-## First I create django folder name backend
+## First I create django project name backend
+
+## then creat users folder
+
+## install pip install djangorestframework
